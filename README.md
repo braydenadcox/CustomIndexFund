@@ -4,4 +4,13 @@ An S&P or other grouped-stock tracker that allows you to input an amount of mone
 
 ---
 
+## Requirements
+
+- Python 3.x
+- `pandas`
+- `numpy`
+- `yfinance`
+
+---
+
 Right now, this is still in its early stages of functionality. I plan to add more features to this project and have it become more advanced, but this is more of practice for a future in the quant field.
